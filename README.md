@@ -17,6 +17,13 @@ Through my work as a backend engineer, I have hands-on experience with:
 
 ---
 
+### 🌐 Frontend Exposure (Supporting)
+- Built and maintained internal dashboards and user-facing screens using **React, Tailwind CSS**
+- Integrated frontend applications with backend APIs
+- Worked closely with UI/UX and backend teams to deliver end-to-end features
+
+---
+
 ### 🚀 Featured Project
 - **auth-service**  
   A production-ready authentication microservice inspired by real-world backend systems:
