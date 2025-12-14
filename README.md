@@ -1,38 +1,42 @@
 ## Hi, I'm Vijay 👋
 
-Backend Engineer with 3+ years of experience building secure, scalable backend systems.
+Backend Engineer with **3+ years of professional experience** building and maintaining secure, scalable backend systems in production environments.
 
 ---
 
-### 💼 What I work on
-- Java & Spring Boot
-- REST APIs & Microservices
-- Authentication & Authorization (JWT, Spring Security)
-- Database design (MongoDB, MySQL)
-- Cloud deployment & Docker
+### 💼 Professional Experience Highlights
+Through my work as a backend engineer, I have hands-on experience with:
+
+- Designing and building REST APIs using **Java & Spring Boot**
+- Implementing authentication and authorization using **Spring Security & JWT**
+- Working with **microservices-based architectures**
+- Designing and querying databases (**MongoDB, MySQL**)
+- Writing clean, maintainable service-layer code
+- Handling production concerns like logging, validation, and error handling
+- Deploying and running services using **Docker and cloud platforms**
 
 ---
 
 ### 🚀 Featured Project
 - **auth-service**  
-  Production-ready authentication microservice  
-  - JWT access & refresh tokens  
-  - Secure login / logout  
-  - Spring Security  
-  - MongoDB  
-  - Swagger UI  
-  - Deployed on cloud  
+  A production-ready authentication microservice inspired by real-world backend systems:
+  - JWT access & refresh tokens
+  - Secure login / logout flows
+  - Spring Security integration
+  - MongoDB-backed persistence
+  - Swagger UI
+  - Cloud deployed
 
 👉 https://github.com/vijaykumar0-1/auth-service
 
 ---
 
-### 🧱 Tech Stack (core)
+### 🧱 Core Tech Stack
 - Java, Spring Boot, Spring Security
 - MongoDB, MySQL
+- REST APIs, OpenAPI / Swagger
 - Docker, AWS
-- REST, OpenAPI / Swagger
-- Git, GitHub
+- Git & GitHub
 
 ---
 
